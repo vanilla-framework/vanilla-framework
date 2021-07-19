@@ -49,7 +49,7 @@
     "!/scss/docs"
   ],
   "dependencies": {
-    "@canonical/cookie-policy": "3.2.0",
+    "@canonical/cookie-policy": "3.3.0",
     "@canonical/latest-news": "1.2.0",
     "autoprefixer": "10.3.0",
     "node-sass": "6.0.1",
@@ -67,7 +67,7 @@
     "stylelint-config-standard": "22.0.0",
     "stylelint-order": "4.1.0",
     "stylelint-prettier": "1.2.0",
-    "stylelint-scss": "3.19.0",
+    "stylelint-scss": "3.20.0",
     "svgo": "2.3.1"
   }
 }
