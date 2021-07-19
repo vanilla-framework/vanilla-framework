@@ -51,7 +51,7 @@
   "dependencies": {
     "@canonical/cookie-policy": "3.2.0",
     "@canonical/latest-news": "1.2.0",
-    "autoprefixer": "10.3.0",
+    "autoprefixer": "10.3.1",
     "node-sass": "6.0.1",
     "postcss": "8.3.5",
     "postcss-cli": "8.3.1"
