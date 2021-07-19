@@ -196,10 +196,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@canonical/cookie-policy@3.2.0":
-  version "3.2.0"
-  resolved "https://registry.npmjs.org/@canonical/cookie-policy/-/cookie-policy-3.2.0.tgz"
-  integrity sha512-7353+uyTR5b5UcqomsVimH+JJqlNqOmj+GKQN9cVQ7m8OsUHcLzNjwCt/txjKt0o6Hw5I/DRS+fLMsmmP0Iokg==
+"@canonical/cookie-policy@3.3.0":
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/@canonical/cookie-policy/-/cookie-policy-3.3.0.tgz#99df0aad2bf01c43e0a6d524b062ebc6066a3121"
+  integrity sha512-G4u2dr04t138BoIsdbnVsL5i2vBl3supgqkAG03AfvAIbbkt1QlIlodGtrv0s3sczmUTEiSNfmT3iC70GY0Suw==
 
 "@canonical/latest-news@1.2.0":
   version "1.2.0"
@@ -4324,10 +4324,10 @@ stylelint-prettier@1.2.0:
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
-stylelint-scss@3.19.0:
-  version "3.19.0"
-  resolved "https://registry.npmjs.org/stylelint-scss/-/stylelint-scss-3.19.0.tgz"
-  integrity sha512-Ic5bsmpS4wVucOw44doC1Yi9f5qbeVL4wPFiEOaUElgsOuLEN6Ofn/krKI8BeNL2gAn53Zu+IcVV4E345r6rBw==
+stylelint-scss@3.20.0:
+  version "3.20.0"
+  resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-3.20.0.tgz#2f1d66449c8995dda9e2cca616c1f2342a2d5289"
+  integrity sha512-9as9UX3mUTVCktzgzmj36/jEV56QLSnpp4GsDN2Egi8vwJbA94WlrB3IFMpekmqFsLyp/Dor3GRUHVoPbfhJDg==
   dependencies:
     lodash "^4.17.15"
     postcss-media-query-parser "^0.2.3"
